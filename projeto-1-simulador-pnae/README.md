@@ -1,3 +1,4 @@
+
 # 1° Projeto - SIMULADOR PNAE
 Objetivo: O objetivo deste Simulador é simular o cálculo do repasse anual do PNAE (Programa Nacional de Alimentação Escolar) para a escola EMEB Vila Quitaúna, em Osasco/SP, a partir do número de matrículas por modalidade de ensino, do valor per capita diário de cada modalidade e dos dias letivos no ano, além de classificar o porte da escola, verificar a elegibilidade para complementação municipal e permite testar cenários de variação nas matrículas.
 
@@ -16,7 +17,14 @@ Objetivo: O objetivo deste Simulador é simular o cálculo do repasse anual do P
 
 
 #### Prints do resultado:
+<img width="1075" height="882" alt="Captura de tela 2026-09-08 161306" src="https://github.com/user-attachments/assets/b19eaf9b-143d-43e3-a6af-d8e6e916a8cd" />
 
+<img width="1456" height="762" alt="Captura de tela 2026-09-08 161206" src="https://github.com/user-attachments/assets/94ed6d5b-136a-4464-9ea9-544d8e4e1ce9" />
+
+<img width="1347" height="508" alt="Captura de tela 2026-09-08 161225" src="https://github.com/user-attachments/assets/60b4b7f8-062b-4952-bd25-fa1d58831bc6" />
+
+
+<img width="1642" height="890" alt="Captura de tela 2026-09-08 161254" src="https://github.com/user-attachments/assets/1080c5c1-be89-4ea9-9f61-fa20b32d47f7" />
 
 
 ## Uso de Inteligência Artificial
