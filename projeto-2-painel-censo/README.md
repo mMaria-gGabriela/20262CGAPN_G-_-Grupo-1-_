@@ -34,6 +34,9 @@ O que os dados representam: Os microdados trazem o cadastro de todos os tipos de
 
 - Variáveis IN_AGUA_*, IN_ENERGIA_*, IN_ESGOTO_* e IN_LIXO_* (tipo de infraestrutura disponível), e as colunas QT_MAT_* (quantidade de matrículas por etapa, sexo, cor/raça e faixa etária).
 
+## USO DE IA
+Não houve uso de IA para a elaboração desse projeto.
+
 ## Participação do Grupo
 O que aprendemos com este projeto: Neste projeto, aprendemos a trabalhar com uma base de dados real e extensa, utilizando o Excel para organizar, tratar e analisar os microdados do Censo Escolar. Desenvolvemos conhecimentos em fórmulas como SE, E, OU e PROCV, além da criação de tabelas dinâmicas, filtros, segmentações e gráficos. Também aprendemos a transformar dados brutos em informações mais claras e visuais, facilitando a análise e a apresentação dos principais indicadores por meio de um dashboard.
 
