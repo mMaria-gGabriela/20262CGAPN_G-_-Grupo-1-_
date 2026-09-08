@@ -84,9 +84,9 @@ Porte: Classificação da escola por faixa de matrículas totais
 O que aprendemos com este projeto: Aprendemos mais sobre o contexto do PNAE e como seus dados e regras podem ser transformados em uma ferramenta de análise. Na prática, aprendemos a usar o Excel de forma mais completa, utilizando fórmulas como SE, E, OU, PROCV e SOMARPRODUTO, além da Tabela de Dados, para fazer os cálculos e testar diferentes cenários de matrículas e repasses.
 
 ## Papel de cada integrante:
-Criar o repositório e organizar as pastas: Maria Gabriela e Camile
+Criar o repositório e organizar as pastas: Maria Gabriela e Danielle
 
-Projeto 1 (arquivos e readme): Danielle e Manuela Fasti
+Projeto 1 (arquivos e readme): Camile e Manuela Fasti
 
 Projeto 2 (arquivos e readme): Camile e Henrique
 
