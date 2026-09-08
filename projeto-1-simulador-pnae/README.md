@@ -3,7 +3,7 @@
 Objetivo: O objetivo deste Simulador é simular o cálculo do repasse anual do PNAE (Programa Nacional de Alimentação Escolar) para a escola EMEB Vila Quitaúna, em Osasco/SP, a partir do número de matrículas por modalidade de ensino, do valor per capita diário de cada modalidade e dos dias letivos no ano, além de classificar o porte da escola, verificar a elegibilidade para complementação municipal e permite testar cenários de variação nas matrículas.
 
 #### Como usar:
-● Abra o arquivo “Simulador_att7_MGESS.xlsx”; 
+● Abra o arquivo “Simulador_att7_MGESS.xlsx”, para melhor a experiência habilite a edição da planilha; 
 
 ● Na aba parâmetros PNAE, confira os valores per capita por modalidade (Resolução CD/FNDE nº 1/2026) e os dias letivos do ano; 
 
