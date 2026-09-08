@@ -38,9 +38,9 @@ O que os dados representam: Os microdados trazem o cadastro de todos os tipos de
 O que aprendemos com este projeto: Neste projeto, aprendemos a trabalhar com uma base de dados real e extensa, utilizando o Excel para organizar, tratar e analisar os microdados do Censo Escolar. Desenvolvemos conhecimentos em fórmulas como SE, E, OU e PROCV, além da criação de tabelas dinâmicas, filtros, segmentações e gráficos. Também aprendemos a transformar dados brutos em informações mais claras e visuais, facilitando a análise e a apresentação dos principais indicadores por meio de um dashboard.
 
 Papel de cada integrante:
-Criar o repositório e organizar as pastas: Maria Gabriela e Camile
+Criar o repositório e organizar as pastas: Maria Gabriela e Danielle
 
-Projeto 1 (arquivos e readme): Danielle e Manuela Fasti
+Projeto 1 (arquivos e readme): Camile e Manuela Fasti
 
 Projeto 2 (arquivos e readme): Camile e Henrique
 
