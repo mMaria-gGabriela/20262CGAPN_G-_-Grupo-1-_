@@ -4,7 +4,10 @@
 O projeto realizado tem como objetivo organizar os microdados do Censo Escolar da Educação Básica 2024 (INEP) do município de São Paulo de forma didática, com colunas calculadas e tabelas dinâmicas, para mostrar em um dash indicadores de infraestrutura das escolas (água, energia, esgoto e lixo), distribuição por zona da cidade, rede de CEIs e perfil das matrículas por cor/raça.
 
 ### Como usar: 
-Basta fazer o download da planilha Excel e ir para a aba “DASHBOARD”. Na planilha Excel há várias abas demonstrando a criação das dinâmicas, tabelas e gráficos do dashboard, além da aba "microdados_ed_basica_2024" que possui o tratamento dos dados brutos e organização/preenchimento das colunas. OBS.: PARA MELHOR EXPERIÊNCIA HABILITE A EDIÇÃO DA PLANILHA!
+
+● Para acessar a planilha, clique no arquivo correspondente e, na página que será aberta, selecione “View raw” ou clique no ícone de download, localizado no canto superior direito.
+
+● Faça o download da planilha Excel e clicar na aba “DASHBOARD”. Na planilha Excel há várias abas demonstrando a criação das dinâmicas, tabelas e gráficos do dashboard, além da aba "microdados_ed_basica_2024" que possui o tratamento dos dados brutos e organização/preenchimento das colunas. OBS.: PARA MELHOR EXPERIÊNCIA HABILITE A EDIÇÃO DA PLANILHA!
 
 ### Prints do resultado: 
 
