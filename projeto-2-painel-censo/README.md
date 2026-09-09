@@ -11,15 +11,9 @@ O projeto realizado tem como objetivo organizar os microdados do Censo Escolar d
 
 ### Prints do resultado: 
 
-<img width="1397" height="598" alt="Captura de tela 2026-09-08 162942" src="https://github.com/user-attachments/assets/597fb5af-2992-4a93-b479-891b3bb2cdd1" />
+<img width="1853" height="662" alt="Captura de tela 2026-09-09 172515" src="https://github.com/user-attachments/assets/6ec03acd-06b0-455b-add8-4d7459f28244" />
 
-<img width="876" height="672" alt="Captura de tela 2026-09-08 163021" src="https://github.com/user-attachments/assets/f3a58437-c789-4c7e-868f-ebd80da3ee5c" />
-
-<img width="912" height="637" alt="Captura de tela 2026-09-08 163102" src="https://github.com/user-attachments/assets/1d2f43f5-4d3a-4c2b-a1e5-5506cf6e0749" />
-
-<img width="1007" height="612" alt="Captura de tela 2026-09-08 163114" src="https://github.com/user-attachments/assets/19369997-b144-4144-af04-544b768f1a6f" />
-
-<img width="917" height="266" alt="Captura de tela 2026-09-08 163133" src="https://github.com/user-attachments/assets/ef4b8e11-3d04-4d9e-9ef8-d30d2ad6bc15" />
+<img width="1863" height="656" alt="image" src="https://github.com/user-attachments/assets/255794e4-c5ff-4ec6-b2b2-7aede795a0e6" />
 
 
 ### Fonte de Dados
