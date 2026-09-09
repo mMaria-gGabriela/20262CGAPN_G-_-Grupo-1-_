@@ -20,9 +20,6 @@ Objetivo: O objetivo deste Simulador é simular o cálculo do repasse anual do P
 
 
 #### Prints do resultado:
-<img width="1075" height="882" alt="Captura de tela 2026-09-08 161306" src="https://github.com/user-attachments/assets/b19eaf9b-143d-43e3-a6af-d8e6e916a8cd" />
-
-<img width="1456" height="762" alt="Captura de tela 2026-09-08 161206" src="https://github.com/user-attachments/assets/94ed6d5b-136a-4464-9ea9-544d8e4e1ce9" />
 
 <img width="1347" height="508" alt="Captura de tela 2026-09-08 161225" src="https://github.com/user-attachments/assets/60b4b7f8-062b-4952-bd25-fa1d58831bc6" />
 
