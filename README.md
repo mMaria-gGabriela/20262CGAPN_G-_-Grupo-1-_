@@ -24,7 +24,9 @@ O dashboard apresenta informações sobre infraestrutura escolar, incluindo águ
 Cada pasta de projeto possui seu próprio README, contendo informações específicas sobre o desenvolvimento, objetivo e utilização do projeto, além de prints dos resultados e os três disclaimers exigidos:
 
 Inteligência Artificial
+
 Fonte de Dados
+
 Participação do Grupo
 
 Dessa forma, o repositório funciona não apenas como um espaço para armazenamento dos projetos, mas também como um registro do processo de aprendizagem desenvolvido ao longo da disciplina, reunindo as ferramentas, técnicas e conhecimentos aplicados pelos alunos na análise de dados voltada às políticas públicas.
