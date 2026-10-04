@@ -1,5 +1,15 @@
 # 2° Projeto - PAINEL DO CENSO ESCOLAR 2024
 
+## Objetivo
+
+Construir um painel de infraestrutura e matrículas das escolas de **um município**, a partir dos microdados do Censo Escolar 2024. O painel permite responder, por exemplo:
+
+- Quantas escolas e quantas matrículas existem por dependência administrativa (federal, estadual, municipal, privada)?
+- Como as escolas se distribuem por tamanho (Micro, Pequena, Média, Grande)?
+- Quais são as condições de água, energia e destinação do lixo nas escolas do município?
+
+A análise do município é refeita automaticamente ao trocar o filtro, sem refazer tabelas dinâmicas ou gráficos.
+
 ## Automação em Power Query
 
 O painel foi desenvolvido a partir do padrão apresentado nas Aulas 9 e 10 e utiliza o Power Query para importar a base do Censo Escolar 2024, filtrar o município escolhido pelo grupo e atualizar todo o painel com um único clique em **Atualizar Tudo**.
