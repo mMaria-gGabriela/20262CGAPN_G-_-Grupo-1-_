@@ -34,9 +34,13 @@ A automação foi desenvolvida a partir do padrão apresentado em aula e utiliza
 A macro realiza as seguintes etapas:
 
 ● Lê o Fator de Ajuste, o Racional da Taxa e o Usuário preenchidos na tela do simulador;
+
 ● Valida se os campos obrigatórios foram preenchidos;
+
 ● Impede o registro quando o campo Usuário estiver vazio;
+
 ● Grava as informações em uma nova linha da aba Banco_de_Dados;
+
 ● Limpa os campos preenchidos após o registro, permitindo a realização de uma nova simulação.
 
 O banco de dados contém informações como ID, Data/Hora, Fator de Ajuste, Racional da Taxa, Total de Matrículas Ajustadas, Repasse Ajustado e Usuário.
@@ -73,7 +77,13 @@ Porte: classificação da escola de acordo com a faixa de matrículas totais.
 O que aprendemos com este projeto: Aprendemos mais sobre o contexto do PNAE e sobre como seus dados e regras podem ser transformados em uma ferramenta de análise. Na prática, aprofundamos o uso do Excel, utilizando fórmulas como SE, E, OU, PROCV e SOMARPRODUTO, além da Tabela de Dados para testar diferentes cenários de matrículas e repasses.
 Nesta nova etapa, também aprendemos a utilizar VBA para automatizar o registro das simulações, entendendo como criar, ler, validar, gravar e limpar informações por meio de uma macro.
 
-<img width="718" height="806" alt="Captura de tela 2026-10-04 171242" src="https://github.com/user-attachments/assets/15569891-8c6d-43d8-818e-3a6b99a74b0c" />
+### Papel de cada integrante: 
+Criar o repositório e organizar as pastas: Maria Gabriela 
 
+Projeto 1 (arquivos e readme): Maria Gabriela e Henrique
+
+Projeto 2 (arquivos e readme): Camile, Danielle e Manuela
+
+Registro no Eclass: Maria Gabriela
 
 
