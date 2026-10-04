@@ -44,17 +44,17 @@ O painel foi construído a partir de uma planilha-base com os dados do Censo Esc
 
 Para utilizar o painel:
 
-Abra o arquivo CENSO_AUTOMATIZADO_COM_POWERQUERY.xlsx no Excel para desktop;
+1. Abra o arquivo CENSO_AUTOMATIZADO_COM_POWERQUERY.xlsx no Excel para desktop;
 
-Certifique-se de que a planilha-base do Censo Escolar 2024 utilizada pelo projeto está disponível no local indicado nas consultas do Power Query;
+2. Certifique-se de que a planilha-base do Censo Escolar 2024 utilizada pelo projeto está disponível no local indicado nas consultas do Power Query;
 
-Na tabela de filtro, informe a sigla da UF (por exemplo, RO) e o município (por exemplo, Porto Velho), escrevendo o nome exatamente como aparece na base do Censo;
+3. Na tabela de filtro, informe a sigla da UF (por exemplo, RO) e o município (por exemplo, Porto Velho), escrevendo o nome exatamente como aparece na base do Censo;
 
-Clique em Dados > Atualizar Tudo;
+4. Clique em Dados > Atualizar Tudo;
 
-O Power Query irá buscar os dados correspondentes na planilha-base, filtrar o estado e o município selecionados e atualizar automaticamente as tabelas, gráficos e indicadores do painel;
+5. O Power Query irá buscar os dados correspondentes na planilha-base, filtrar o estado e o município selecionados e atualizar automaticamente as tabelas, gráficos e indicadores do painel;
 
-Use as segmentações para explorar os resultados.
+6. Use as segmentações para explorar os resultados.
 
 Importante: a alteração da UF e do município só funcionará corretamente se a planilha-base estiver disponível, pois o painel não possui todos os dados do Censo armazenados diretamente nele. A planilha-base é a fonte utilizada pelo Power Query para realizar a atualização dos dados. Portanto, caso a pessoa queira analisar outro estado ou município, deverá manter essa base disponível e, se necessário, ajustar o caminho da fonte de dados nas consultas do Power Query.
 
