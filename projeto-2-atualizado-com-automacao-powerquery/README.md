@@ -1,50 +1,65 @@
-# Projeto 2 – Painel do Censo Escolar 2024 com Power Query
+# 2° Projeto - PAINEL DO CENSO ESCOLAR 2024
 
-Painel em Excel que lê a base do Censo Escolar 2024, filtra o município escolhido dentro do Power Query e atualiza todas as tabelas, gráficos e segmentações com um único clique em **Atualizar Tudo**. Atividade: Análise de Dados para Pesquisas em Políticas Públicas (CGAPN), FGV EAESP, 2º semestre de 2026 (Monitorada 2, Projeto 2).
+## Automação em Power Query
 
----
+O painel foi desenvolvido a partir do padrão apresentado nas Aulas 9 e 10 e utiliza o Power Query para importar a base do Censo Escolar 2024, filtrar o município escolhido pelo grupo e atualizar todo o painel com um único clique em **Atualizar Tudo**.
 
-## Objetivo
+O que mudou em relação à versão anterior:
 
-Construir um painel de infraestrutura e matrículas das escolas de **um município**, a partir dos microdados do Censo Escolar 2024. O painel permite responder, por exemplo:
+● A base deixou de ser o recorte de São Paulo e passou a ser a base nacional do Censo Escolar 2024, com todos os municípios do Brasil;
 
-- Quantas escolas e quantas matrículas existem por dependência administrativa (federal, estadual, municipal, privada)?
-- Como as escolas se distribuem por tamanho (Micro, Pequena, Média, Grande)?
-- Quais são as condições de água, energia e destinação do lixo nas escolas do município?
+● O município passou a ser informado em uma tabela de filtro (UF e município);
 
-A análise do município é refeita automaticamente ao trocar o filtro, sem refazer tabelas dinâmicas ou gráficos.
+● O filtro passou a ser feito dentro do Power Query, por Merge com Junção Interna (Inner Join) entre a consulta principal e a tabela de filtro, pelos campos UF e Município ao mesmo tempo. Assim, o painel trabalha apenas com os dados do município escolhido.
 
----
+O Power Query realiza as seguintes etapas:
 
-## Como usar
+● Importa a base e as tabelas auxiliares (Dependência, Localização, Localização Diferenciada e Situação);
 
-1. Abra o arquivo no **Excel para desktop**.
-2. Garanta que a consulta encontre a base: o arquivo de origem está referenciado por caminho (`PROJETOOOO 2.xlsx`). Se o arquivo estiver em outra pasta, ajuste em Dados > Obter Dados > Configurações da Fonte de Dados.
-3. Na tabela de filtro, informe a **sigla da UF** (por exemplo, `RO`) e o **município** (por exemplo, `Porto Velho`), escrevendo o nome exatamente como aparece no Censo (maiúsculas, minúsculas e acentos).
-4. Clique em **Dados > Atualizar Tudo**.
-5. Use as segmentações para explorar o painel.
+● Define os tipos de cada coluna;
 
-> Para o **Atualizar Tudo** esperar a consulta terminar antes de atualizar as dinâmicas, desmarque "Habilitar atualização em segundo plano" nas propriedades da consulta `Microdados` (Dados > Propriedades da Consulta).
+● Faz Merges com Junção Esquerda Externa (Left Join) para trazer a descrição da Dependência e da Localização;
 
-**Município atual no arquivo:** Porto Velho (RO), com 93 escolas carregadas.
+● Cria a coluna condicional Tamanho da Escola (Micro até 50 matrículas, Pequena até 200, Média até 500 e Grande acima de 500);
 
----
+● Cria os indicadores de infraestrutura Água, Energia, Esgoto e Lixo, usando a primeira coluna binária marcada com 1, na ordem de prioridade definida;
 
-### Prints do resultado: 
+● Filtra a base pelo município escolhido (Inner Join).
 
-## Disclaimers
+O painel contém tabelas dinâmicas, gráficos dinâmicos (Escolas por Dependência, Matrículas por Dependência, Escolas por Tamanho, Escolas por Energia, Escolas por Água e Escolas por Lixo) e segmentações de dados (Dependência, Tamanho da Escola, Água, Energia e Lixo).
 
-### Inteligência Artificial
+### Como usar
 
-A Inteligência Artificial (Claude) foi utilizada para um melhor entendimento das informações dispostas no PDF de instruções para o trabalho e como um auxílio na construção do README. 
+1. Abra o arquivo `CENSO_AUTOMATIZADO_COM_POWERQUERY.xlsx` no Excel para desktop;
+2. Na tabela de filtro, informe a sigla da UF (por exemplo, RO) e o município (por exemplo, Porto Velho), escrevendo o nome como aparece no Censo;
+3. Clique em Dados > Atualizar Tudo;
+4. Use as segmentações para explorar o painel.
 
-### Fonte de Dados
+O município que está no arquivo atualmente é Porto Velho (RO), com 93 escolas.
 
-Os dados são os microdados do **Censo Escolar 2024**, divulgados pelo INEP. As tabelas auxiliares (Dependência, Localização, Localização Diferenciada e Situação) seguem os códigos do dicionário de variáveis do Censo. Os dados não foram alterados, apenas tratados (tipos, classificações e filtro por município). Os resultados refletem a qualidade e a completude das informações declaradas pelas escolas.
+## Prints do resultado:
 
-### Participação 
+## Uso de Inteligência Artificial
+
+A Inteligência Artificial (Claude) foi utilizada como apoio na redação deste README, a partir do arquivo da planilha e das instruções do Projeto 2.
+
+## Fonte de Dados
+Fonte: Censo Escolar 2024, do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), disponível no seguinte link: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar.  Os dados apresentam nformações de cada escola do Brasil, como dependência administrativa, localização, situação de funcionamento, condições de infraestrutura (água, energia, esgoto e lixo) e número de matrículas. Os dados não foram alterados, apenas tratados no Power Query (tipos, classificações e filtro por município). As faixas de tamanho da escola (Micro/Pequena/Média/Grande) foram definidas para fins didáticos deste curso.
+Estrutura:
+Dependência: Federal, Estadual, Municipal ou Privada;
+Localização: Urbana ou Rural;
+Matrículas (QT_MAT_BAS): número de matrículas da educação básica;
+Tamanho da escola: classificação de acordo com a faixa de matrículas;
+Água, Energia, Esgoto e Lixo: tipo de infraestrutura da escola, conforme a ordem de prioridade das colunas binárias.
+
+## Participação do Grupo
+
+O que aprendemos com este projeto: Aprendemos a importar uma base grande no Power Query e a filtrá-la antes de montar o painel, de modo que apenas os dados do município escolhido sejam processados. Na prática, aprofundamos o uso de Merges com Junção Interna e Junção Esquerda Externa, de colunas condicionais, de tabelas dinâmicas, gráficos dinâmicos e segmentações de dados. Também aprendemos a atualizar o painel inteiro com um clique, trocando o município na tabela de filtro.
+
+### Papel de cada integrante: 
+
 
 - **Camile:** importação da base e consultas do Power Query.
-- **Manuela e Danielle:** colunas condicionais e *merges*.
+- **Danielle e Manuela:** colunas condicionais e *merges*.
 - **Manuela:** tabelas dinâmicas, gráficos e segmentações.
-- **Maria Gabriela:** teste da atualização trocando o município e conferência dos resultados.
+- **Maria Gabriela:** teste da atualização trocando o município e conferência dos resultados.]
