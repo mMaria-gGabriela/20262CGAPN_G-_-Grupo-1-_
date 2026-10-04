@@ -54,8 +54,6 @@ O município que está no arquivo atualmente é Porto Velho (RO), com 93 escolas
 <img width="1916" height="772" alt="Captura de tela 2026-10-04 195339" src="https://github.com/user-attachments/assets/d3b2f887-9a5a-4dc4-a4f2-1939c743c460" />
 
 
-<img width="466" height="268" alt="image" src="https://github.com/user-attachments/assets/2e9de705-7f77-489e-bb07-da9c36dbd40a" />
-
 
 ## Uso de Inteligência Artificial
 
