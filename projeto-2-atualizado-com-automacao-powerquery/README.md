@@ -16,15 +16,6 @@ A análise do município é refeita automaticamente ao trocar o filtro, sem refa
 
 ---
 
-## Conteúdo do painel
-
-- **Aba visível:** `Planilha5`, com o título *Dashboard Censo Escolar 2024*.
-- **Gráficos dinâmicos:** Escolas por dependência, Matrículas por dependência, Escolas por tamanho, Escolas por energia, Escolas por água e Escolas por lixo.
-- **Segmentações de dados:** Dependência, Tamanho da escola, Água, Energia e Lixo.
-- **Abas ocultas:** `Microdados` (tabela tratada carregada pelo Power Query), tabelas auxiliares, tabelas de filtro e abas com as tabelas dinâmicas de apoio.
-
----
-
 ## Como usar
 
 1. Abra o arquivo no **Excel para desktop**.
