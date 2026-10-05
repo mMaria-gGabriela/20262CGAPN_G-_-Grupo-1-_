@@ -64,7 +64,7 @@ OBS.: Há abas ocultadas na planilha.
 
 ## Prints do resultado:
 
-<img width="1916" height="772" alt="Captura de tela 2026-10-04 195339" src="https://github.com/user-attachments/assets/d3b2f887-9a5a-4dc4-a4f2-1939c743c460" />
+<img width="1278" height="659" alt="image" src="https://github.com/user-attachments/assets/fedda90a-9935-4f85-b1a5-965441af74b1" />
 
 
 
@@ -91,4 +91,4 @@ O que aprendemos com este projeto: Aprendemos a importar uma base grande no Powe
 - **Camile:** importação da base e consultas do Power Query.
 - **Danielle e Manuela:** colunas condicionais e *merges*.
 - **Manuela:** tabelas dinâmicas, gráficos e segmentações.
-- **Maria Gabriela:** teste da atualização trocando o município e conferência dos resultados.]
+- **Maria Gabriela:** teste da atualização trocando o município e conferência dos resultados.
