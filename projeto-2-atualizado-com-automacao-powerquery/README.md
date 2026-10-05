@@ -60,7 +60,7 @@ Importante: a alteração da UF e do município só funcionará corretamente se 
 
 O município que está no arquivo atualmente é Porto Velho (RO), com 93 escolas.
 
-OBS.: Há abas ocultadas na planilha.
+OBS.: Há abas ocultadas na planilha e lembre-se de atualizar a aba Filtro e o Dashboard para melhor consulta.
 
 ## Prints do resultado:
 
