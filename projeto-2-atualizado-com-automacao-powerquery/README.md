@@ -70,7 +70,21 @@ OBS.: Há abas ocultadas na planilha e lembre-se de atualizar a aba Filtro e o D
 
 ## Uso de Inteligência Artificial
 
-A Inteligência Artificial (Claude) foi utilizada como apoio na redação deste README, a partir do arquivo da planilha e das instruções do Projeto 2.
+A Inteligência Artificial (Claude) foi utilizada como apoio na redação deste README, a partir do arquivo da planilha e das instruções do Projeto 2, sendo o prompt após a anexação sendo: 
+Anexei a planilha do meu projeto (CENSO_AUTOMATIZADO_COM_POWERQUERY.xlsx) e as instruções do Projeto 2. Com base nesses arquivos, escreva o README.md do meu repositório no GitHub, em português, em Markdown.
+
+Projeto: painel do Censo Escolar 2024 feito no Excel com Power Query. Ele importa a base nacional, filtra um município (atualmente Porto Velho/RO) e atualiza tudo com "Atualizar Tudo".
+
+Inclua estas seções: Objetivo, Automação em Power Query (o que mudou e etapas), Como usar (passo a passo), Prints do resultado, Uso de Inteligência Artificial, Fonte de Dados e Participação do Grupo.
+
+Integrantes e papéis:
+- Camile: importação da base e consultas do Power Query
+- Danielle e Manuela: colunas condicionais e merges
+- Manuela: tabelas dinâmicas, gráficos e segmentações
+- Maria Gabriela: teste da atualização trocando o município e conferência dos resultados
+- Henrique: tabelas, gráficos e revisão final
+
+Use só informações dos arquivos. Se faltar algo, coloque [PREENCHER].
 
 ## Fonte de Dados
 Fonte: Censo Escolar 2024, do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), disponível no seguinte link: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar.  Os dados apresentam nformações de cada escola do Brasil, como dependência administrativa, localização, situação de funcionamento, condições de infraestrutura (água, energia, esgoto e lixo) e número de matrículas. Os dados não foram alterados, apenas tratados no Power Query (tipos, classificações e filtro por município). As faixas de tamanho da escola (Micro/Pequena/Média/Grande) foram definidas para fins didáticos deste curso.
@@ -92,3 +106,4 @@ O que aprendemos com este projeto: Aprendemos a importar uma base grande no Powe
 - **Danielle e Manuela:** colunas condicionais e *merges*.
 - **Manuela:** tabelas dinâmicas, gráficos e segmentações.
 - **Maria Gabriela:** teste da atualização trocando o município e conferência dos resultados.
+- **Henrique:** tabelas, gráficos e revisão final
