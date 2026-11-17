@@ -182,13 +182,14 @@ O programa foi organizado em parâmetros, funções e programa principal, manten
 
 **Ferramenta utilizada:** ChatGPT (OpenAI).
 
-**Para que foi usada:** A ferramenta foi utilizada como apoio durante o desenvolvimento do projeto, principalmente para o ensinamento da ferramenta "round" no código em Python e identificar possíveis erros.
+**Para que foi usada:** A ferramenta foi utilizada como apoio durante o desenvolvimento do projeto, principalmente para o ensinamento da ferramenta "round" no código em Python, identificar possíveis erros e em auxilio para fazer tabelas aqui no _readme_.
 
 **Exemplo de prompt utilizado:**
 
-"Chat, me ensine a usar o round no python e veja se da forma que eu usei está certinho. Caso esteja errado me ensine a concertar e o que essa ferramenta faz"
+"chat me ensine a usar o round no python e veja se da forma que eu usei está certinho. Caso esteja errado me ensine a concertar e o que essa ferramenta faz"
+"chat como que faz tabelas no sistema markdown do github"
 
-**O que foi ajustado manualmente:** O grupo conferiu as informações apresentadas do round e revisou o código.
+**O que foi ajustado manualmente:** O grupo conferiu as informações apresentadas do round, revisou o código.
 
 ## Fonte de Dados
 
