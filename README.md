@@ -1,7 +1,7 @@
 # 20262CGAPN_G -Grupo-1- Portfólio da disciplina Análise de Dados para Pesquisas em Políticas Públicas (CGAPN) — 2º Semestre 2026, Professora Érica Siqueira.
 
 
-Este repositório reúne projetos desenvolvidos por Camile Vitória Pereira, Danielle Mickaelly Lourenço da Silva, Henrique Silva, Manuela Fasti, Maria Gabriela Espírito Santo, como parte da disciplina de Análise de Dados para Pesquisas em Políticas Públicas.
+Este repositório reúne projetos desenvolvidos por Camile Vitória , Danielle Mickaelly, Henrique Silva, Manuela Fasti, Maria Gabriela, como parte da disciplina de Análise de Dados para Pesquisas em Políticas Públicas.
 
 O principal objetivo deste repositório é documentar e compartilhar os conhecimentos e aprendizados adquiridos ao longo da disciplina, apresentando, de forma prática, como ferramentas de análise de dados podem ser aplicadas à interpretação de informações e ao apoio à tomada de decisões no contexto de políticas públicas. Os projetos apresentados foram desenvolvidos a partir de situações e bases de dados, explorando diferentes técnicas de tratamento, organização, análise e visualização de dados. Além de registrar os resultados obtidos, o repositório busca demonstrar a evolução do aprendizado ao longo do curso e servir como um espaço de consulta e compartilhamento.
 
