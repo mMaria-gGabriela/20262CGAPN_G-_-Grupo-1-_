@@ -44,7 +44,7 @@ O painel foi construído a partir de uma planilha-base com os dados do Censo Esc
 
 Para utilizar o painel:
 
-1. Abra o arquivo CENSO_AUTOMATIZADO_COM_POWERQUERY.xlsx no Excel para desktop;
+1. Abra o arquivo CENSOREVISADO2.xlsx no Excel para desktop;
 
 2. Certifique-se de que a planilha-base do Censo Escolar 2024 utilizada pelo projeto está disponível no local indicado nas consultas do Power Query;
 
@@ -71,7 +71,7 @@ OBS.: Há abas ocultadas na planilha e lembre-se de atualizar a aba Filtro e o D
 ## Uso de Inteligência Artificial
 
 A Inteligência Artificial (Claude) foi utilizada como apoio na redação deste README, a partir do arquivo da planilha e das instruções do Projeto 2, sendo o prompt após a anexação sendo: 
-Anexei a planilha do meu projeto (CENSO_AUTOMATIZADO_COM_POWERQUERY.xlsx) e as instruções do Projeto 2. Com base nesses arquivos, escreva o README.md do meu repositório no GitHub, em português, em Markdown.
+Anexei a planilha do meu projeto (CENSOREVISADO2.xlsx) e as instruções do Projeto 2. Com base nesses arquivos, escreva o README.md do meu repositório no GitHub, em português, em Markdown.
 
 Projeto: painel do Censo Escolar 2024 feito no Excel com Power Query. Ele importa a base nacional, filtra um município (atualmente Porto Velho/RO) e atualiza tudo com "Atualizar Tudo".
 
