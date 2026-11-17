@@ -189,8 +189,8 @@ O programa foi organizado em parâmetros, funções e programa principal, manten
 
 **Exemplo de prompt utilizado:**
 
-"chat me ensine a usar o round no python e veja se da forma que eu usei está certinho. Caso esteja errado me ensine a concertar e o que essa ferramenta faz"
-"chat como que faz tabelas no sistema markdown do github"
+"chat me ensine a usar o round no python e veja se da forma que eu usei está certinho. Caso esteja errado me ensine a concertar e o que essa ferramenta faz",
+"chat como que faz tabelas no sistema markdown do github", "chat me ajude a arrumar esse readme as tabelas ficaram erradas e organize ele para que fique mais facil de entender"
 
 **O que foi ajustado manualmente:** O grupo conferiu as informações apresentadas do round, revisou o código.
 
