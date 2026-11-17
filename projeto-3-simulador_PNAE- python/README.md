@@ -33,9 +33,12 @@ Depois de preencher os dados, o simulador realizará os cálculos e apresentará
 
 ## Prints do resultado
 
-**[INSERIR PRINT DO SIMULADOR SENDO EXECUTADO COM OS DADOS DA ESCOLA ESCOLHIDA]**
+<img width="1279" height="822" alt="Captura de tela 2026-11-17 151151" src="https://github.com/user-attachments/assets/e2dfbcd5-79cc-480b-bba0-04bb0e2a1c39" />
 
-**[INSERIR PRINT DOS RESULTADOS FINAIS APRESENTADOS PELO PROGRAMA]**
+
+<img width="1279" height="858" alt="image" src="https://github.com/user-attachments/assets/0617004a-0b3d-4818-8d7e-f18b4d6a0b3d" />
+
+
 
 ## Escola simulada
 
@@ -237,4 +240,3 @@ Além disso, aprendemos a consultar e interpretar os microdados do Censo Escolar
 | Manuela        | Desenvolvimento e revisão das funções em Python, incluindo os cálculos do repasse e a classificação do porte da escola.                              |
 | Maria Gabriela | Pesquisa do custo dos alimentos por refeição, análise da fonte de preços e realização dos cálculos de cobertura e diferença.                         |
 | Henrique       | Testes do programa, conferência dos resultados, organização do README e revisão final do projeto.                                                    |
-
