@@ -1,8 +1,5 @@
 # 20262CGAPN_G -Grupo-1- Portfólio da disciplina Análise de Dados para Pesquisas em Políticas Públicas (CGAPN) — 2º Semestre 2026, Professora Érica Siqueira.
 
-# Portfólio de Análise de Dados para Pesquisas em Políticas Públicas
-
-### 2026.2 | CGAPN | Grupo 1 | FGV
 
 Este repositório reúne os projetos desenvolvidos por **Camile Vitória, Danielle Mickaelly, Henrique Silva, Manuela Fasti e Maria Gabriela**, durante o segundo semestre de 2026, na disciplina de **Análise de Dados para Pesquisas em Políticas Públicas (CGAPN)**, ministrada pela professora Érica Siqueira.
 
